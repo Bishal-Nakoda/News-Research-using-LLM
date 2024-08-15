@@ -1,0 +1,9 @@
+langchain
+beautifulsoup4
+chainlit
+unstructured
+chromadb
+requests
+langchain_community
+langchain_ollama
+sentence_transformers
